@@ -3,7 +3,7 @@ public class Sudoku {
     private Feldgruppe[] quadranten;
     private Feldgruppe[] zeilen;
     private Feldgruppe[] spallten;
-
+// foo  and döner 
     private String name;
 
     public void init() {
